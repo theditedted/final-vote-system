@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|c:\\xampp\\htdocs\\fingervotesystem\\votersfingerstrips\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|solutionrelative:enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|c:\\xampp\\htdocs\\fingervotesystem\\votersfingerstrips\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|solutionrelative:enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|c:\\xampp\\htdocs\\fingervotesystem\\votersfingerstrips\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|c:\\xampp\\htdocs\\fingervotesystem\\votersfingerstrips\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69805044-7BBB-479A-8B5C-3B5FC018A9E8}|Votersfingerstrips.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enroll.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Enroll.cs",
+              "RelativeDocumentMoniker": "Enroll.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Enroll.cs",
+              "RelativeToolTip": "Enroll.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:50:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enroll.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Enroll.cs",
+              "RelativeDocumentMoniker": "Enroll.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Enroll.cs [Design]",
+              "RelativeToolTip": "Enroll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:41:33.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:38:50.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\fingervotesystem\\Votersfingerstrips\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:34:00.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

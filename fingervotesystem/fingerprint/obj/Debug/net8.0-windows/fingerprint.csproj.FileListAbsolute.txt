@@ -1,0 +1,7 @@
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\FingerprintRegistrationForm.RegistrationForm.resources
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\fingerprint.csproj.GenerateResource.cache
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\fingerprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\fingerprint.AssemblyInfoInputs.cache
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\fingerprint.AssemblyInfo.cs
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\fingerprint.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\fingervotesystem\fingerprint\obj\Debug\net8.0-windows\FingerprintForm.MainForm.resources

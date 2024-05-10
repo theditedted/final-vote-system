@@ -1,0 +1,16 @@
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\Fingerprint form.exe.config
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\Fingerprint form.exe
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\Fingerprint form.pdb
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint form.csproj.AssemblyReference.cache
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint_form.Properties.Resources.resources
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint form.csproj.GenerateResource.cache
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint form.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint form.exe
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint form.pdb
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerprint_form.Form1.resources
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\DPFPDevNET.dll
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\DPFPEngNET.dll
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\DPFPGuiNET.dll
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\DPFPShrNET.dll
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\bin\Debug\DPFPVerNET.dll
+C:\xampp\htdocs\fingervotesystem\Fingerprint form\obj\Debug\Fingerpr.DE596557.Up2Date
